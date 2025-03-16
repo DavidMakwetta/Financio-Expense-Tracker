@@ -1,0 +1,1 @@
+The Financio Expense Tracker is a user-friendly web application built with HTML, CSS, and JavaScript. It helps users efficiently manage their finances by tracking income and expenses, adding new transactions, and gaining insights into their financial health.
